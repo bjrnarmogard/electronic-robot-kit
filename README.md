@@ -11,6 +11,21 @@ The completed robot was tested and is working.
 ## Photos
 
 The project includes four photos showing the completed robot, the PCB and the soldering on the underside of the board.
+### Completed robot
+
+![Completed robot](robot-complete.jpg)
+
+### Top of the PCB
+
+![Top of the PCB](robot-top.jpg)
+
+### Soldering on the underside
+
+![Solder joints](robot-solder-joints.jpg)
+
+### Bottom of the PCB
+
+![Bottom of the PCB](robot-bottom.jpg)
 
 ## Video
 
