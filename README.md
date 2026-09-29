@@ -33,6 +33,8 @@ The project includes four photos showing the completed robot, the PCB and the so
 
 A 20-second video shows the completed robot starting and running.
 
+[▶ Watch the robot working](robot-working.mp4)
+
 ## What I learned
 
 * Soldering electronic components onto a PCB
